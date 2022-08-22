@@ -67,6 +67,7 @@ html {
 }
 .in-brief-content {
   columns: 3;
+  align-items: flex-end;
   font-size: 0.8rem;
   text-align: left;
   border: 1px solid #ccc;
